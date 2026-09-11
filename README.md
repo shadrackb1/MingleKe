@@ -1,10 +1,8 @@
-﻿# MingleKe
+# MingleKE
 
-MingleKE
+<img src="./assets/header.svg" width="100%" alt="MingleKE" />
 
-## Stack
-
-react Â· express Â· vite Â· typescript Â· tailwindcss Â· firebase Â· node
+Discover meaningful connections in Kenya.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· express Â· vite Â· typescript Â· tailwindcss Â· firebase Â·
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
